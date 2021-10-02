@@ -21,8 +21,8 @@ helm repo update
 
 See the the READMEs for the various charts in the [charts](charts) directory. 
 
-* If you have not yet installed Drone server, start with the [drone](charts/drone) chart.
-* After installing `drone`, install [drone-runner-kube](charts/drone-runner-kube) to begin executing builds.
+* If you have not yet installed Drone server, start with the [drone](drone) chart.
+* After installing `drone`, install [drone-runner-kube](drone-runner-kube) to begin executing builds.
 
 ## Documentation
 

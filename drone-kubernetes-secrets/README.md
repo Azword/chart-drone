@@ -6,7 +6,7 @@ This Chart is for installing the [Kubernetes Secrets extension](https://github.c
 
 ## Installing Drone Kubernetes Secrets extension
 
-See the [drone-kubernetes-secrets chart installation guide](./docs/install.md).
+See the [drone-kubernetes-secrets chart installation guide](docs/install.md).
 
 ## Configuring Drone Kubernetes Secrets extension
 
